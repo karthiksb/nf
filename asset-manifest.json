@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/nf/static/css/main.f56270a2.css",
+    "main.js": "/nf/static/js/main.88428cdc.js",
+    "static/media/artwork.png": "/nf/static/media/artwork.341543bbe0ae8cb48248.png",
+    "static/media/building.png": "/nf/static/media/building.006be0c98c3318910f42.png",
+    "static/media/rights.png": "/nf/static/media/rights.f26b07a675f431e80d26.png",
+    "static/media/aprtment.png": "/nf/static/media/aprtment.19594fdf00aaea0258f3.png",
+    "static/media/dist2.png": "/nf/static/media/dist2.16a095761e8a8ad9bf13.png",
+    "static/media/man.png": "/nf/static/media/man.c59745393af55ed67af8.png",
+    "static/media/dist.png": "/nf/static/media/dist.55bd485a7ef3fdb99881.png",
+    "static/media/roadmap.png": "/nf/static/media/roadmap.a023d640671f1350bd4b.png",
+    "static/media/bg1.png": "/nf/static/media/bg1.700b6578c17da69312c7.png",
+    "static/media/h.gif": "/nf/static/media/h.d1149cb8e65e0b41bb03.gif",
+    "static/media/hand.gif": "/nf/static/media/hand.d1149cb8e65e0b41bb03.gif",
+    "static/media/Gotham-Medium.otf": "/nf/static/media/Gotham-Medium.a52599fa8cce74bab773.otf",
+    "static/media/Gotham-Thin.otf": "/nf/static/media/Gotham-Thin.67d9a1ce07a626fdbf00.otf",
+    "static/media/Gotham-Light.otf": "/nf/static/media/Gotham-Light.a21d1577f411612a2753.otf",
+    "static/media/flex2.png": "/nf/static/media/flex2.7b6ca0ef0acf883c9c73.png",
+    "static/media/guest.png": "/nf/static/media/guest.b798a5cc24a3395e2879.png",
+    "static/media/road.png": "/nf/static/media/road.8e4d494b82e2a84fc144.png",
+    "static/media/bg2.png": "/nf/static/media/bg2.d1cd4ab48acef76efdd1.png",
+    "static/media/Drop.png": "/nf/static/media/Drop.24e16c832d1ed8f63999.png",
+    "static/media/respman.png": "/nf/static/media/respman.ce928ba1b42d72a48b01.png",
+    "static/media/fwenclub.svg": "/nf/static/media/fwenclub.b49affc05abf185afe701b17192070ff.svg",
+    "static/media/teamlogo.svg": "/nf/static/media/teamlogo.b49affc05abf185afe701b17192070ff.svg",
+    "static/media/respbg1.png": "/nf/static/media/respbg1.b2149353cb3fbf6469cc.png",
+    "static/media/flex1.png": "/nf/static/media/flex1.f641d7a76e4f73a9adb1.png",
+    "static/media/face.png": "/nf/static/media/face.a23005a6ea6fccc26195.png",
+    "static/media/respbg2.png": "/nf/static/media/respbg2.b154223ce008f373d5c2.png",
+    "static/media/discord.svg": "/nf/static/media/discord.532785271ab0926a28adc4fd6adc30d4.svg",
+    "static/media/instagram.svg": "/nf/static/media/instagram.8681cbd9b64778db6cb036aa04b5b389.svg",
+    "static/media/twitter.svg": "/nf/static/media/twitter.09bdec68a6ab069a62688d8cd874a62c.svg",
+    "index.html": "/nf/index.html",
+    "main.f56270a2.css.map": "/nf/static/css/main.f56270a2.css.map",
+    "main.88428cdc.js.map": "/nf/static/js/main.88428cdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f56270a2.css",
+    "static/js/main.88428cdc.js"
+  ]
+}
